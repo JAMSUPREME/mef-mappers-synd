@@ -1,6 +1,15 @@
 mef-mappers-synd
 ================
 
+Summary
+------
+
+Played around with MEF a bit and determined that its functionality doesn't really provide anything better than what an IOC container can provide (in its current form). Autofac (or Unity for that matter) could theoretically provide all the same behavior (and more).
+
+
+Orig Concepts
+-------
+
 Playing with MEF and extensible mappers
 
 Stuff to play around with
